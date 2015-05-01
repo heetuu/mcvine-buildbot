@@ -1,3 +1,5 @@
+# OBSOLETE: see pkgrepos.py
+# 
 # this is created by command
 #
 #  $ getrepourls.py pylist
